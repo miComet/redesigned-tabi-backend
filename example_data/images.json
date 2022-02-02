@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image_url": "https://dat.bus-tour.his-j.com/upload/image/11/tour/5223/point_608271209d1d3.jpg?1629207039",
+        "title": "富士サファリパーク（イメージ）",
+        "location": "北海道札幌市中央区北1西2",
+        "season": "spring"
+    },
+    {
+        "id": 2,
+        "image_url": "https://dat.bus-tour.his-j.com/upload/image/11/tour/5223/point_5e081431ce170.jpg?1629207039",
+        "title": "御殿場高原ランチバイキング（イメージ）",
+        "location": "北海道札幌市南区定山渓温泉西4-340",
+        "season": "summer"
+    },
+    {
+        "id": 3,
+        "image_url": "https://dat.bus-tour.his-j.com/upload/image/11/tour/5223/point_6114913b9c1c5.jpg?1629207039",
+        "title": "御殿場プレミアム・アウトレット（イメージ）",
+        "location": "栃木県日光市湯元2548",
+        "season": "autumn"
+    },
+    {
+        "id": 4,
+        "image_url": "https://dat.bus-tour.his-j.com/upload/image/11/tour/6786/point_614eca502eec3.png?1633333146",
+        "title": "◆やまなしグリーン・ゾーン認証施設利用コース◆",
+        "location": "滋賀県大津市唐橋町23-3",
+        "season": "winter"
+    }
+]
