@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Vim / Bash
+*.swp
+*.swo
+*.log
+*.bk
+_test*
